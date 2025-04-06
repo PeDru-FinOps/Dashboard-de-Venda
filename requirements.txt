@@ -86,7 +86,7 @@ platformdirs
 plotly               
 prometheus_client    
 prompt_toolkit          
-protobuf              
+protobuf==3.20.3            
 psutil              
 psycopg2-binary            
 ptyprocess         
