@@ -88,7 +88,7 @@ prometheus_client
 prompt_toolkit          
 protobuf              
 psutil              
-psycopg2            
+psycopg2-binary            
 ptyprocess         
 pure_eval            
 pyarrow               
